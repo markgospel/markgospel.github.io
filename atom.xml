@@ -4,9 +4,9 @@
   
   <link href="/atom.xml" rel="self"/>
   
-  <link href="https://markgospel.com/"/>
+  <link href="http://markgospel.com/"/>
   <updated>2018-05-01T14:06:36.195Z</updated>
-  <id>https://markgospel.com/</id>
+  <id>http://markgospel.com/</id>
   
   <author>
     <name>Michael Gospel</name>
@@ -17,8 +17,8 @@
   
   <entry>
     <title>独立博客</title>
-    <link href="https://markgospel.com/2020/01/15/%E7%8B%AC%E7%AB%8B%E5%8D%9A%E5%AE%A2/"/>
-    <id>https://markgospel.com/2020/01/15/独立博客/</id>
+    <link href="http://markgospel.com/2020/01/15/%E7%8B%AC%E7%AB%8B%E5%8D%9A%E5%AE%A2/"/>
+    <id>http://markgospel.com/2020/01/15/独立博客/</id>
     <published>2020-01-15T13:18:16.133Z</published>
     <updated>2018-05-01T14:06:36.195Z</updated>
     
@@ -39,10 +39,10 @@
     
     </summary>
     
-      <category term="生活" scheme="https://markgospel.com/categories/%E7%94%9F%E6%B4%BB/"/>
+      <category term="生活" scheme="http://markgospel.com/categories/%E7%94%9F%E6%B4%BB/"/>
     
     
-      <category term="随笔" scheme="https://markgospel.com/tags/%E9%9A%8F%E7%AC%94/"/>
+      <category term="随笔" scheme="http://markgospel.com/tags/%E9%9A%8F%E7%AC%94/"/>
     
   </entry>
   
